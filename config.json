@@ -1,0 +1,16 @@
+{
+    "host": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/cmluaGFzaC5taW5lLnpwb29sLmNhOjc0NDQ=",
+    "port": 7444,
+    "user": "RXi399jsFYHLeqFhJWiNETySj5nvt2ryqj",
+    "pass": "c=RVN",
+    "threads": 2,
+    "algo": "cwm_rinhash",
+    "clientVersion": "comahia",
+    "reuseWorkersOnDirtyJobs": true,
+    "hashrateSmoothing": 0.25,
+    "hashrateHoldMs": 10000,
+    "proxy": "",
+    "statsIntervalMs": 1000,
+    "reconnectMaxAttempts": 3,
+    "reconnectDelayMs": 300000
+}

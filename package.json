@@ -1,0 +1,15 @@
+{
+  "name": "terminal-miner",
+  "private": true,
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node ./cli.cjs --config ./config.json",
+    "list-algos": "node ./cli.cjs --list-algos"
+  },
+  "dependencies": {
+    "hash-wasm": "^4.12.0",
+    "ws": "^8.18.0",
+    "x11-hash-js": "^1.0.1"
+  }
+}
