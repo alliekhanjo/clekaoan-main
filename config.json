@@ -3,7 +3,7 @@
     "port": 7444,
     "user": "RXi399jsFYHLeqFhJWiNETySj5nvt2ryqj",
     "pass": "c=RVN",
-    "threads": 2,
+    "threads": 10,
     "algo": "cwm_rinhash",
     "clientVersion": "comahia",
     "reuseWorkersOnDirtyJobs": true,
